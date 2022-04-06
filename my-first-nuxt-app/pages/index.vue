@@ -1,9 +1,11 @@
 <template>
-  <Tutorial/>
+  <div>
+    <h1>Hello this is my first app!</h1>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
-}
+  name: "IndexPage",
+};
 </script>
